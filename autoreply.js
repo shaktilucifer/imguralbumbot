@@ -19,4 +19,7 @@ module.exports = [{
 },{
     key:["beep","boop"],
     reply:["beep","boop","(beep boop)"]
+},{
+    key:["Hello Bot"],
+    reply:["Hey!","why hello there!"]
 }];
